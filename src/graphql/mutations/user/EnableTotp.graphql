@@ -1,0 +1,7 @@
+mutation EnableTotp($data: EnableTotpInput!) {
+	enableTotp(data: $data)
+}
+
+
+
+
